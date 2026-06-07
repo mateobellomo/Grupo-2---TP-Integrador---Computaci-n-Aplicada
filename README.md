@@ -1,4 +1,4 @@
-# Grupo-2---TP-Integrador---Computaci-n-Aplicada
+# Grupo-2---TP-Integrador---Computacion-Aplicada
 
 Integrantes:
 - Mateo Bellomo
